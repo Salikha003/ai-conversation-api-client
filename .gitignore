@@ -1,0 +1,5 @@
+.vscode/
+venv/
+gpt4free/
+__pycache__/
+
